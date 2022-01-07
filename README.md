@@ -3,7 +3,7 @@
  The codes are associated with the following paper:
  >**Deep Causal Reasoning for Recommendations,**  
  >Yaochen Zhu, Jing Yi, Jiayi Xie and Zhenzhong Chen,  
- >ArXiv Preprints 2022.
+ >ArXiv Preprints 2022. [[pdf]](https://arxiv.org/abs/2201.02088)
 
 
 ## Environment
