@@ -19,7 +19,7 @@
 
 - **Acquire the movielens-1m and amazon-vg datasets:**  
     The original datasets can be found [[here]](https://grouplens.org/datasets/movielens/1m/) and [[here]](https://jmcauley.ucsd.edu/data/amazon/).  
- Preprocess the data and put them under data_sim/raw folder.
+ Preprocess the data with data_sim/raw/prepare_data.py.
 
 - **Preprocess the original dataset:**
     cd to data_sim/raw folder, run   
