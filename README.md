@@ -5,6 +5,7 @@
  >Yaochen Zhu, Jing Yi, Jiayi Xie and Zhenzhong Chen,  
  >ArXiv Preprints 2022. [[pdf]](https://arxiv.org/abs/2201.02088)
 
+Note: To better understand Rubin and Pearl's causal framework discussed in this paper, check out our [new repo](https://github.com/yaochenzhu/awesome-books-for-causality) that summarizes relevant books of and disputes between the two most prominent schools of causal inference.
 
 ## Environment
 
