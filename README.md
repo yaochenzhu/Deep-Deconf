@@ -30,7 +30,7 @@ Note: To better understand Rubin and Pearl's causal framework discussed in this 
     cd to data_sim folder, run   
     ```python train.py --dataset Name --simulate {exposure, ratings}```. 
 
-- **Simulate the causal dataset under various confounding levels:**
+- **Simulate the causal dataset under various confounding levels:**    
     ```python simulate.py --dataset Name --simulate {exposure, ratings}```. 
 
 - **The simulated datasets are in casl/data folder**
