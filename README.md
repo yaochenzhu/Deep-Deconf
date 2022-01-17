@@ -5,7 +5,7 @@
  >Yaochen Zhu, Jing Yi, Jiayi Xie and Zhenzhong Chen,  
  >ArXiv Preprints 2022. [[pdf]](https://arxiv.org/abs/2201.02088)
 
-Note: To better understand Rubin and Pearl's causal framework discussed in this paper, check out our [new repo](https://github.com/yaochenzhu/awesome-books-for-causality) that summarizes relevant books of and disputes between the two most prominent schools of causal inference. Moreover, Prof. Ruocheng Guo's [repo](https://github.com/rguo12/awesome-causality-algorithms) includes a thorough archive of various causal inference algorithms, with a sub-section devoted especially for recommender systems.
+**Note!** To better understand Rubin and Pearl's causal framework discussed in this paper, check out our [new repo](https://github.com/yaochenzhu/awesome-books-for-causality) that summarizes relevant books of and disputes between the two most prominent schools of causal inference. Moreover, Prof. Ruocheng Guo's [repo](https://github.com/rguo12/awesome-causality-algorithms) includes a thorough archive of various causal inference algorithms, with a sub-section devoted especially for recommender systems.
 
 ## Environment
 
@@ -53,3 +53,12 @@ Note: To better understand Rubin and Pearl's causal framework discussed in this 
     ```python evaluate_model.py --dataset Name --split [0-4]```
 
 **For advanced argument usage, run the code with --help argument.**
+
+## If you find the codes useful, please kindly cite our paper. Thanks.
+
+    @article{zhu2022deep,
+      title={Deep Causal Reasoning for Recommendations},
+      author={Zhu, Yaochen and Yi, Jing and Xie, Jiayi and Chen, Zhenzhong},
+      journal={arXiv preprint arXiv:2201.02088},
+      year={2022}
+    }
