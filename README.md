@@ -4,6 +4,8 @@
  >**Deep Causal Reasoning for Recommendations,**  
  >Yaochen Zhu, Jing Yi, Jiayi Xie and Zhenzhong Chen,  
  >ArXiv Preprints 2022. [[pdf]](https://arxiv.org/abs/2201.02088)
+ 
+**Note!** We have released a survey regarding causal inference in recommender system. Check it out! [Causal Inference in Recommender Systems: A Survey of Strategies for Bias Mitigation, Explanation, and Generalization](https://arxiv.org/abs/2301.00910).
 
 **Note!** To better understand Rubin and Pearl's causal framework discussed in this paper, check out our [new repo](https://github.com/yaochenzhu/awesome-books-for-causality) that summarizes relevant books of and disputes between the two most prominent schools of causal inference. Moreover, Prof. Ruocheng Guo's [repo](https://github.com/rguo12/awesome-causality-algorithms) includes a thorough archive of various causal inference algorithms, with a sub-section devoted especially for recommender systems.
 
